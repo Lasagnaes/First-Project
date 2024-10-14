@@ -1,0 +1,32 @@
+div.center {
+
+  text-align: center;
+
+}
+
+.margins {
+
+  margin-left: 25%;
+
+  margin-right: 25%;
+
+}
+
+#lesson1 {
+
+  background-color: #556B2F;
+
+  font-size: 2rem;
+
+  font-family: monospace;
+
+}
+#lesson2 {
+
+  background-color: #556B2F;
+
+  font-size: 2rem;
+
+  font-family: sans-serif;
+
+}
